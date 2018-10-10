@@ -1,4 +1,7 @@
 hi
+<<<<<<< HEAD
 
+this is master branch
 =======
+i hope this gets merged properly
 >>>>>>> i-am-experimenting
